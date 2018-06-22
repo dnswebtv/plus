@@ -6,11 +6,11 @@ http://172.104.114.178/vod/live/2/2.m3u8
 http://172.104.114.178/vod/live/1/1.m3u8
 #EXTINF:0, group-title="PLUS",VOD 3
 http://172.104.114.178/vod/live/3/3.m3u8
-#EXTINF:0, group-title="ASIAN XXX",Asian XXX - VOD 01
-http://69.46.75.107/files/videos/140747456300c03.flv
-#EXTINF:0, group-title="ASIAN XXX",Asian XXX - VOD 02
-http://69.46.75.107/files/videos/1410962219b8929.flv
-#EXTINF:0, group-title="ASIAN XXX",Asian XXX - VOD 03
-http://69.46.75.107/files/videos/141188120614378.flv
-#EXTINF:0, group-title="ASIAN XXX",Asian XXX - VOD 04
-http://69.46.75.107/files/videos/141344498070660.flv
+#EXTINF:0, group-title="PLUS",Hustler TV
+http://usatv1.sunduk.tv:8080/CH171_std/playlist.m3u8
+#EXTINF:0, group-title="PLUS",Babestation
+http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
+#EXTINF:0, group-title="PLUS",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0, group-title="PLUS",Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
