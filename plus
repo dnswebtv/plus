@@ -1,6 +1,5 @@
 #EXTM3U
 #PLUS
-#Plus
 #EXTINF:0 channel-id="900" tvg-id="Hustler TV" group-title="Plus",Hustler TV
 http://usatv1.sunduk.tv:8080/CH171_std/playlist.m3u8
 
